@@ -1,21 +1,12 @@
 
 html {
-    background-image:url(./about-me-bg-maclaren.png);
-    width: 1920px;
-    height: 1080px;
-    background-repeat: repeat-x;
-    background-size: auto 975px;
-    background-attachment: fixed;
+    background-color: lightgray;
 }
-
 
     body {
         margin-top: 0;
-        margin-right: 310px;
-        margin-left: 150px;
         margin-bottom: 0;
         padding: 0 50px 0 50px;
-        max-width: 1550px;
         text-align: justify;
         text-justify: inter-word;
     }
@@ -24,5 +15,5 @@ html {
     }
 .bio-list {
     align-content: center;
-   color: olivedrab;
+   color: saddlebrown;
     }
